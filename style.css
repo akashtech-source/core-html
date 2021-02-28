@@ -1,0 +1,20 @@
+.nusrat{
+    color: red;
+    border: 1px solid blue;
+    margin: 20px;
+    padding: 10px;
+    
+}
+#jahan{
+    color: blue;
+    border: 1px solid red;
+    margin-left: 20px;
+    padding: 10px;
+}
+.profile img{
+    width: 200px;
+    
+}
+.profile{
+    text-align: center;
+}
